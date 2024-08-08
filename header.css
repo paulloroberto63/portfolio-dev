@@ -39,7 +39,7 @@ header {
    
 }
 
-header img:nth-child(1){
+.avatar {
    margin-bottom: 56px;
    border: 2px solid var(--red-color);
    border-radius: 999px;
@@ -47,9 +47,8 @@ header img:nth-child(1){
    
 }
 
-header img:nth-child(2){
+.vetor {
     position: absolute;
-    top: 175px;
-    left: 570px;
-    
- }
+    left: 50px;
+    bottom: -8px;
+}
