@@ -31,7 +31,7 @@
     margin-top: 20px;
 }
 
-header {
+#info header {
     width: 680px;
     height: 327px;
     display: flex;
