@@ -1,0 +1,112 @@
+#contact {
+    width: 100%;
+    padding: 128px 120px 200px;
+    background-image: url(/assets/images/Background_Contacts.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  #contact h2{
+      font: var(--subtitle);
+      color: var(--purple-color);
+  }
+  
+  #contact h1{
+      font: var(--title-md);
+      color: var(--gray-600);
+  }
+  
+  #contact p{
+      font: var(--text-md);
+      color: var(--gray-500);
+  }
+  
+  #contact header{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 8px;
+    }
+  
+    #contact h3{
+      font: var(--text-md);
+      color: var(--gray-500);
+  }
+  
+  
+  #links {
+      padding-top: 48px;
+      display: flex;
+      flex-direction:column;
+      align-items: center;
+      gap: 16px;
+  }
+  
+  .linkedin {
+      width: 400px;
+      display: flex;
+      padding: 20px;
+      background-color: var(--gray-300);
+      border-radius: 8px;
+      justify-content: space-between;
+      align-items: center;
+      cursor: pointer;
+  }
+  
+  .instagram {
+      width: 400px;
+      display: flex;
+      padding: 20px;
+      background-color: var(--gray-300);
+      border-radius: 8px;
+      justify-content: space-between;
+      align-items: center;
+      cursor: pointer;
+      
+  }
+  
+  .github {
+      width: 400px;
+      display: flex;
+      padding: 20px;
+      background-color: var(--gray-300);
+      border-radius: 8px;
+      justify-content: space-between;
+      align-items: center;
+      cursor: pointer;
+  }
+  
+  .email {
+      width: 400px;
+      display: flex;
+      padding: 20px;
+      background-color: var(--gray-300);
+      border-radius: 8px;
+      justify-content: space-between;
+      align-items: center;
+      cursor: pointer;
+  }
+  
+  .logo {
+      display: flex;
+      gap: 12px;
+      align-items:center;
+      
+}
+
+.linkedin:hover {
+    border: 1px solid var(--blue-color);
+}
+
+.instagram:hover {
+    border: 1px solid var(--blue-color);
+}
+
+.github:hover {
+    border: 1px solid var(--blue-color);
+}
+
+.email:hover {
+    border: 1px solid var(--blue-color);
+}
