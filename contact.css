@@ -8,90 +8,90 @@
   }
   
   #contact h2{
-      font: var(--subtitle);
-      color: var(--purple-color);
+    font: var(--subtitle);
+    color: var(--purple-color);
   }
   
   #contact h1{
-      font: var(--title-md);
-      color: var(--gray-600);
+    font: var(--title-md);
+    color: var(--gray-600);
   }
   
   #contact p{
-      font: var(--text-md);
-      color: var(--gray-500);
+    font: var(--text-md);
+    color: var(--gray-500);
   }
   
   #contact header{
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      gap: 8px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
     }
   
     #contact h3{
-      font: var(--text-md);
-      color: var(--gray-500);
+    font: var(--text-md);
+    color: var(--gray-500);
   }
   
   
   #links {
-      padding-top: 48px;
-      display: flex;
-      flex-direction:column;
-      align-items: center;
-      gap: 16px;
+    padding-top: 48px;
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    gap: 16px;
   }
   
   .linkedin {
-      width: 400px;
-      display: flex;
-      padding: 20px;
-      background-color: var(--gray-300);
-      border-radius: 8px;
-      justify-content: space-between;
-      align-items: center;
-      cursor: pointer;
+    width: 400px;
+    display: flex;
+    padding: 20px;
+    background-color: var(--gray-300);
+    border-radius: 8px;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
   }
   
   .instagram {
-      width: 400px;
-      display: flex;
-      padding: 20px;
-      background-color: var(--gray-300);
-      border-radius: 8px;
-      justify-content: space-between;
-      align-items: center;
-      cursor: pointer;
+    width: 400px;
+    display: flex;
+    padding: 20px;
+    background-color: var(--gray-300);
+    border-radius: 8px;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
       
   }
   
   .github {
-      width: 400px;
-      display: flex;
-      padding: 20px;
-      background-color: var(--gray-300);
-      border-radius: 8px;
-      justify-content: space-between;
-      align-items: center;
-      cursor: pointer;
+    width: 400px;
+    display: flex;
+    padding: 20px;
+    background-color: var(--gray-300);
+    border-radius: 8px;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
   }
   
-  .email {
-      width: 400px;
-      display: flex;
-      padding: 20px;
-      background-color: var(--gray-300);
-      border-radius: 8px;
-      justify-content: space-between;
-      align-items: center;
-      cursor: pointer;
+   .email {
+    width: 400px;
+    display: flex;
+    padding: 20px;
+    background-color: var(--gray-300);
+    border-radius: 8px;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
   }
   
-  .logo {
-      display: flex;
-      gap: 12px;
-      align-items:center;
+.logo {
+    display: flex;
+    gap: 12px;
+    align-items:center;
       
 }
 
